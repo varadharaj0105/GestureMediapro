@@ -11,10 +11,8 @@ Control media with simple finger gestures — no touch or mouse needed!
 - ML-based advanced gesture recognition (✌️, 👍)
 - Background tray mode for seamless use
 
-## 📸 Demo
-[Watch Demo on YouTube](#)
 
-## 🚀 How to Run
-```bash
+
+
 pip install -r requirements.txt
 python main.py
