@@ -7,7 +7,6 @@ Control media with simple finger gestures — no touch or mouse needed!
 - Real-time gesture recognition (1–5 fingers)
 - Left & right hand detection
 - GUI to map gestures to media actions
-- Voice feedback for each action
 - ML-based advanced gesture recognition (✌️, 👍)
 - Background tray mode for seamless use
 
