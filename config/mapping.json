@@ -1,0 +1,16 @@
+{
+  "Right": {
+    "1": "space",
+    "2": "nexttrack",
+    "3": "volumedown",
+    "4": "volumeup",
+    "5": "volumemute"
+  },
+  "Left": {
+    "1": "playpause",
+    "2": "prevtrack",
+    "3": "volumedown",
+    "4": "volumeup",
+    "5": "volumemute"
+  }
+}
