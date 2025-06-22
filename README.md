@@ -30,10 +30,3 @@ Ideal for touchless control while watching videos, listening to music, or during
 | Tkinter      | GUI for mapping gestures to actions         |
 | JSON         | Stores user preferences                     |
 
-## 🖥️ How to Run Locally
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/yourusername/GestureMediaPro.git
-cd GestureMediaPro
